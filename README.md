@@ -25,6 +25,3 @@ This project not only advanced my technical skills in data engineering but also 
 
 ### Contributing
 Feel free to fork this repository to extend the projects or suggest improvements by submitting a pull request.
-
-### License
-This project is available under the MIT License. See the LICENSE file for more details.
